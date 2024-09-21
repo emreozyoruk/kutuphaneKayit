@@ -9,9 +9,7 @@ Kütüphaneler tarafından kullanılabilecek kayıt yönetimlerini, kitap ödün
 - Kitapların stok bilgileri tutulur.
 - Kitapların ödünç verme ve geri alma kayıtları tutulur.
 
-## Ekran Görüntüleri
-- UML diyagram
-  <img src="src/main/resources/images/uml.png" alt="Diagram_1" width="" />
+
 
 ## API Kullanımı
 Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
