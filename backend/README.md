@@ -67,6 +67,7 @@ Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
 
 
 ## Kurulum
+<<<<<<< HEAD
 
 1. `src/main/resources/application.properties` dosyasında veri tabanı konfigürasyonunu yapın.
 2. Projeyi ayağa kaldırmak için idenizden start edin.
@@ -74,4 +75,15 @@ Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
 4. End pointlere istek atabilirsiniz.
 
 
+=======
+1. `src/main/resources/application.properties` dosyasında veri tabanı konfigürasyonunu yapın.
+2. Projeyi ayağa kaldırmak için idenizden start edin.
+3. Swagger üzerinden api kullanılabilir. Tarayıcınızdan http://localhost:8080/swagger-ui/index.html#/ url'ine gidin.
+4. End pointlere istek atabilirsiniz.
+
+
+## Lisans
+
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> 5ef6108ba7db31c0007fb75be5c3701aa8678af8
 
