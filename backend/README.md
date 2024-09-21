@@ -67,20 +67,11 @@ Aşağıda, API'nin sunduğu temel endpoint'lerin bir listesi bulunmaktadır:
 
 
 ## Kurulum
-1. Projeyi klonlayın.
-    - git clone https://github.com/alisimsekk/LibraryApp.git
-2. `src/main/resources/application.properties` dosyasında veri tabanı konfigürasyonunu yapın.
-3. Projeyi ayağa kaldırmak için idenizden start edin.
-4. Swagger üzerinden api kullanılabilir. Tarayıcınızdan http://localhost:8080/swagger-ui/index.html#/ url'ine gidin.
-5. End pointlere istek atabilirsiniz.
+1. `src/main/resources/application.properties` dosyasında veri tabanı konfigürasyonunu yapın.
+2. Projeyi ayağa kaldırmak için idenizden start edin.
+3. Swagger üzerinden api kullanılabilir. Tarayıcınızdan http://localhost:8080/swagger-ui/index.html#/ url'ine gidin.
+4. End pointlere istek atabilirsiniz.
 
-## Ortam Değişkenleri
-
-Bu projeyi çalıştırmak için aşağıdaki ortam değişkenlerini application.properties dosyasından değiştirmelisiniz.
-
-spring.datasource.url  
-spring.datasource.username  
-spring.datasource.password
 
 ## Lisans
 
